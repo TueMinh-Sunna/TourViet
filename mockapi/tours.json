@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Đà Lạt mộng mơ cùng [HỌ TÊN]",
+    "city": "Đà Lạt",
+    "days": 3,
+    "price": 3590000,
+    "seats": 0,
+    "departure": "2026-11-05",
+    "image": "https://placehold.co/360x270/png?text=Tour+1",
+    "isFavorite": false
+  },
+  {
+    "name": "Đồi chè Cầu Đất",
+    "city": "Đà Lạt",
+    "days": 2,
+    "price": 2190000,
+    "seats": 2,
+    "departure": "2026-11-12",
+    "image": "https://placehold.co/360x270/png?text=Tour+2",
+    "isFavorite": true
+  },
+  {
+    "name": "Langbiang buổi sớm",
+    "city": "Đà Lạt",
+    "days": 4,
+    "price": 4290000,
+    "seats": 8,
+    "departure": "2026-11-19",
+    "image": "https://placehold.co/360x270/png?text=Tour+3",
+    "isFavorite": false
+  },
+  {
+    "name": "Biển Mỹ Khê",
+    "city": "Đà Nẵng",
+    "days": 3,
+    "price": 3590000,
+    "seats": 3,
+    "departure": "2026-11-05",
+    "image": "https://placehold.co/360x270/png?text=Tour+4",
+    "isFavorite": false
+  },
+  {
+    "name": "Bà Nà Hills",
+    "city": "Đà Nẵng",
+    "days": 2,
+    "price": 2190000,
+    "seats": 0,
+    "departure": "2026-11-12",
+    "image": "https://placehold.co/360x270/png?text=Tour+5",
+    "isFavorite": false
+  },
+  {
+    "name": "Phố cổ Hội An",
+    "city": "Đà Nẵng",
+    "days": 4,
+    "price": 4290000,
+    "seats": 6,
+    "departure": "2026-11-19",
+    "image": "https://placehold.co/360x270/png?text=Tour+6",
+    "isFavorite": false
+  },
+  {
+    "name": "Hồ Gươm mùa thu",
+    "city": "Hà Nội",
+    "days": 3,
+    "price": 3590000,
+    "seats": 12,
+    "departure": "2026-12-05",
+    "image": "https://placehold.co/360x270/png?text=Tour+7",
+    "isFavorite": false
+  },
+  {
+    "name": "Văn Miếu",
+    "city": "Hà Nội",
+    "days": 2,
+    "price": 2190000,
+    "seats": 1,
+    "departure": "2026-12-12",
+    "image": "https://placehold.co/360x270/png?text=Tour+8",
+    "isFavorite": true
+  },
+  {
+    "name": "Ẩm thực Hà Nội",
+    "city": "Hà Nội",
+    "days": 4,
+    "price": 4290000,
+    "seats": 7,
+    "departure": "2026-12-19",
+    "image": "https://placehold.co/360x270/png?text=Tour+9",
+    "isFavorite": false
+  },
+  {
+    "name": "Bãi Sao",
+    "city": "Phú Quốc",
+    "days": 3,
+    "price": 3590000,
+    "seats": 9,
+    "departure": "2026-12-05",
+    "image": "https://placehold.co/360x270/png?text=Tour+10",
+    "isFavorite": false
+  },
+  {
+    "name": "Hoàng hôn Dinh Cậu",
+    "city": "Phú Quốc",
+    "days": 2,
+    "price": 2190000,
+    "seats": 5,
+    "departure": "2026-12-12",
+    "image": "https://placehold.co/360x270/png?text=Tour+11",
+    "isFavorite": false
+  },
+  {
+    "name": "Khám phá đảo ngọc",
+    "city": "Phú Quốc",
+    "days": 4,
+    "price": 4290000,
+    "seats": 10,
+    "departure": "2026-12-19",
+    "image": "https://placehold.co/360x270/png?text=Tour+12",
+    "isFavorite": false
+  }
+]
